@@ -1,0 +1,57 @@
+.reg12{
+ border-bottom-right-radius: 0px;
+ border-top-right-radius: 0px;
+ width: 150px;
+ border-radius: 3px;
+ height: 35px;
+ background-color: rgb(235, 83, 37);
+}
+.lamo2{
+    text-decoration: none;
+    color: white;
+}
+.lamo1{
+    margin-top: 2%;
+    text-decoration: none;
+    color: red;
+}
+.toni1{
+    margin-top: 2%;
+    margin-left: 2%;
+    width: 60%;
+    height: 200px;
+}
+.app16{
+    margin-top: -79%;
+    width: 100%;
+    height: 400px;
+    background-image: url(../images/CH.png);
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position: center;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.delivery16{
+    width: 100%;
+    height: 400px;
+    margin-top: 3%;
+    background-color: rgb(255, 117, 25);
+    display: flex;
+    flex-direction: column;
+}
+.payment-option3{
+    width: 100%;
+    height: 600px;
+    background-color: rgb(62, 62, 88);
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 2%;
+}
+
